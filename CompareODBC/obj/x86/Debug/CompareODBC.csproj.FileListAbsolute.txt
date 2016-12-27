@@ -1,0 +1,9 @@
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\bin\Debug\CompareODBC.exe
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\bin\Debug\CompareODBC.pdb
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\obj\x86\Debug\CompareODBC.Form1.resources
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\obj\x86\Debug\CompareODBC.Properties.Resources.resources
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\obj\x86\Debug\CompareODBC.csproj.GenerateResource.Cache
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\obj\x86\Debug\CompareODBC.exe
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\obj\x86\Debug\CompareODBC.pdb
+c:\users\teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\obj\x86\Debug\CompareODBC.csprojResolveAssemblyReference.cache
+C:\Users\Teemo\documents\visual studio 2010\Projects\CompareODBC\CompareODBC\bin\Debug\CompareODBC.exe.config
